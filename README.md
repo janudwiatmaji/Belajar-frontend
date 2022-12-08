@@ -1,2 +1,2 @@
 # Belajar-frontend
-Repsitory untuk pembelajaran Web terutama frontend
+Repository untuk pembelajaran Web terutama frontend
