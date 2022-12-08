@@ -1,5 +1,4 @@
 Berikut ini adalah sebuah cotoh page untuk menguji commit
   - Ketika melakukan perubahan harus kita membuat commit
   - Commit bertujuan untuk memberi penjelasan mengenai perubahan apa yang kita buat
-  - Sedangkan branch adalah contoh percabangan
   - Setelah melakukan peruhan atau penamnahan commit sistem akan merubahnya secara otomatis
